@@ -4,6 +4,8 @@ A collection of laser engraved, 4 inch slate tile microchip coasters.
 
 ![Atmel ATmega328P](atmel-atmega328p.jpg)
 
+![Atmel ATSAMD21](atmel-atsamd21.jpg)
+
 ![Espressif ESP32-PICO-D4](esp32-pico-d4.jpg)
 
 More info: https://www.evilgeniuslabs.org/macrochips
